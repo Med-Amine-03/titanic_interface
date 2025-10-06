@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'titanic_predector
+  title: 'titanic_predector'
 }
 
 export default function RootLayout({
